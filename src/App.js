@@ -2,6 +2,7 @@ import "./App.css"
 import Button from "./components/Button"
 import Heading from "./components/Heading"
 import Textarea from "./components/Text/text"
+import Text from "./components/Paragraph"
 
 function App() {
   const click = () => {
@@ -16,6 +17,7 @@ function App() {
       </Button>
       <Textarea type="text" label="Name" id="123" />
       <Heading type="h6" colour="red">sweta godi</Heading>
+      <Text type="p" colour="black" italic>akshit Gondo</Text>
     </div>
   )
 }
