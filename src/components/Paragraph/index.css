@@ -1,0 +1,27 @@
+.black {
+  color: black;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.white {
+  color: white;
+}
+
+.grey {
+  color: grey;
+}
+
+.bold {
+  font-style: oblique;
+}
+
+.italic {
+  font-style: italic;
+}
